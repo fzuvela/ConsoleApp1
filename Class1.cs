@@ -8,7 +8,7 @@ namespace ConsoleApp1
 {
     class Class1
     {
-        void druga_metoda
+        void treca_metoda
         {
             
         }
